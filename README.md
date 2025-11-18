@@ -1,6 +1,5 @@
 # :wave: Bem-vindo ao meu perfil!
 
-## :round_pushpin: Localização
 Sou **Felipe Candelora Pereira**, moro em **São Carlos - SP**.
 
 ---
