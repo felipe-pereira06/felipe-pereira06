@@ -1,16 +1,30 @@
-## Hi there 👋
+# :wave: Bem-vindo ao meu perfil!
 
-<!--
-**felipe-pereira06/felipe-pereira06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :round_pushpin: Localização
+Sou **Felipe Candelora Pereira**, moro em **São Carlos - SP**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mortar_board: Formação e Atividades
+- Estudante do **Instituto Federal de São Paulo (IFSP)**  
+- Curso: **Análise e Desenvolvimento de Sistemas**  
+- Integrante do grupo **PET ADS**
+
+---
+
+## :brain: Habilidades e Tecnologias
+
+### :computer: Linguagens e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+## :mailbox: Contato
+:e_mail: **Email:** felipecandelora@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pereira-38968a314)
