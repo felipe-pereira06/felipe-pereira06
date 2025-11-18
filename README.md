@@ -25,6 +25,6 @@ Sou **Felipe Candelora Pereira**, moro em **São Carlos - SP**.
 ---
 
 ## :mailbox: Contato
-:e_mail: **Email:** felipecandelora@gmail.com
+**Email:** felipecandelora@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pereira-38968a314)
